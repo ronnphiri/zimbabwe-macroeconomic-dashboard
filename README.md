@@ -30,7 +30,7 @@ The dashboard highlights the sharp inflation surge post-2019 and presents the da
 - Contextual annotations explaining major inflation spikes
 
 ## Dashboard Preview
-![Inflation Trend](screenshots/inflation_trend.png)
+![Inflation Trend](Screenshots/inflation_trend.png)
 
 ## Author
 Ronald Phiri
