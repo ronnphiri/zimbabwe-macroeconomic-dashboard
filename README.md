@@ -5,6 +5,9 @@ This project analyzes Zimbabwe’s inflation trends using Consumer Price Index (
 
 The dashboard highlights the sharp inflation surge post-2019 and presents the data in a clean, year-based analytical model.
 
+This project was built as part of a structured Power BI learning path focused on data modeling, DAX fundamentals, and analytical storytelling.
+
+
 ## Tools & Technologies
 - Power BI
 - Power Query (Web API & web data extraction)
